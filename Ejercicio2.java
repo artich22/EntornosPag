@@ -28,7 +28,8 @@ public class Ejercicio2 {
 				num++;
 				primo=true;
 			}
-			System.out.println ("La suma de  los primos es "+suma);			}		
+			System.out.println ("La suma de  los primos es "+suma);
+			System.out.println ("Commit 21");}		
 	
 }
 }
