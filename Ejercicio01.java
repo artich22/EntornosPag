@@ -22,7 +22,7 @@ public class Ejercicio01 {
 		}
 		if (ordenado)
 			System.out.println ("la serie esta ordenada");
-			System.out.println ("Commit 01");
+			System.out.println ("Commit 02");
 		else 
 			System.out.println ("la serie no esta ordenada");
 		
